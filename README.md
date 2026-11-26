@@ -67,7 +67,11 @@ El proyecto consiste en una aplicación de consola que permite disputar partidas
 
 ## 📸 Capturas del juego
 
-Próximamente se incorporarán capturas del programa en funcionamiento.
+<img width="432" height="252" alt="image" src="https://github.com/user-attachments/assets/cd1df3e0-98fb-4075-a34f-9feeed6a2d39" />
+
+<img width="398" height="407" alt="image" src="https://github.com/user-attachments/assets/bdf175d9-94c6-4acc-9dbe-5b7468d3b438" />
+
+
 
 ## 🎯 Objetivo de aprendizaje
 
